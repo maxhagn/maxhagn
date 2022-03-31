@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @maxhagn
+- 👀 I’m interested in all kinds of programming
+- 🌱 I’m currently learning compiler construction and parallel computing
