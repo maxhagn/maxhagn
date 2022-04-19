@@ -1,4 +1,4 @@
-# Hi I'm max.
+# Hi I'm max!
 I am a software developer in Vienna and I study computer science at the technical university in Vienna. I am interested in all disciplines of computer science, but most of all in low level programming like compiler construction and development with C and C++. 
 \
 \
