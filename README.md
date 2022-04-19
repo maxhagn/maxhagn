@@ -3,16 +3,16 @@ I am a software developer in Vienna and I study computer science at the technica
 \
 My repositories are either tasks I had to solve in school or university or private projects. Here is a small overview of my repositories:
 \
-Bachelor Thesis
+## Bachelor Thesis
 + [https://github.com/maxhagn/ROIProfilerCPP](https://github.com/maxhagn/ROIProfilerCPP)
 \
-Diploma Thesis
+## Diploma Thesis
 + [https://github.com/maxhagn/DiplomaProjectInfoPage](https://github.com/maxhagn/DiplomaProjectInfoPage)
 + [https://github.com/maxhagn/CSSFramework](https://github.com/maxhagn/CSSFramework)
 + [https://github.com/maxhagn/DiplomaE-LearningPlatform](https://github.com/maxhagn/DiplomaE-LearningPlatform)
 + [https://github.com/maxhagn/DiplomaPreProject](https://github.com/maxhagn/DiplomaPreProject)
 \
-Private Projects
+## Private Projects
 + [https://github.com/maxhagn/UpToDate](https://github.com/maxhagn/UpToDate)
 + [https://github.com/maxhagn/SmartDriving](https://github.com/maxhagn/SmartDriving)
 + [https://github.com/maxhagn/Vacayournal](https://github.com/maxhagn/Vacayournal)
@@ -22,7 +22,7 @@ Private Projects
 + [https://github.com/maxhagn/HagnnetWebsite](https://github.com/maxhagn/HagnnetWebsite)
 + [https://github.com/maxhagn/PersonalWebsitesArchive](https://github.com/maxhagn/PersonalWebsitesArchive)
 \
-University Projects
+## University Projects
 + [https://github.com/maxhagn/CompilerConstruction](https://github.com/maxhagn/CompilerConstruction)
 + [https://github.com/maxhagn/SoftwareEngineeringProjektmanagement](https://github.com/maxhagn/SoftwareEngineeringProjektmanagement)
 + [https://github.com/maxhagn/OperatingSystems](https://github.com/maxhagn/OperatingSystems)
@@ -31,7 +31,7 @@ University Projects
 + [https://github.com/maxhagn/DistributedSystems](https://github.com/maxhagn/DistributedSystems)
 + [https://github.com/maxhagn/JavaIntroductionProgramming](https://github.com/maxhagn/JavaIntroductionProgramming)
 \
-School Projects
+## School Projects
 + [https://github.com/maxhagn/LinkHypeHyperlinkManagement](https://github.com/maxhagn/LinkHypeHyperlinkManagement)
 + [https://github.com/maxhagn/E-LearningVideoPlatform](https://github.com/maxhagn/E-LearningVideoPlatform)
 + [https://github.com/maxhagn/AngularLaravelProjects](https://github.com/maxhagn/AngularLaravelProjects )
