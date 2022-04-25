@@ -1,5 +1,5 @@
 # Hi I'm max!
-I am a software developer in Vienna and I study computer science at the technical university in Vienna. I am interested in all disciplines of computer science, but most of all in low level programming like compiler construction and development with C and C++. 
+I am a software developer from Vienna and I currently study computer science at the technical university in Vienna. I am interested in all disciplines of computer science, but most of all in low level programming like compiler construction and development with C and C++. 
 \
 \
 My repositories are either tasks I had to solve in school or university or private projects. Here is a small overview of my repositories:
