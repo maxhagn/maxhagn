@@ -36,6 +36,8 @@ My repositories are either tasks I had to solve in school or university or priva
 + [https://github.com/maxhagn/IntroductionToSecurity](https://github.com/maxhagn/IntroductionToSecurity)
 + [https://github.com/maxhagn/WebEngineering](https://github.com/maxhagn/WebEngineering)
 + [https://github.com/maxhagn/StatisticalComputingR](https://github.com/maxhagn/StatisticalComputingR)
++ [https://github.com/maxhagn/DataAnalysisR](https://github.com/maxhagn/DataAnalysisR)
++ [https://github.com/maxhagn/SemiStructuredData](https://github.com/maxhagn/SemiStructuredData)
 + [https://github.com/maxhagn/JavaIntroductionProgramming](https://github.com/maxhagn/JavaIntroductionProgramming)
 
 ## School Projects
