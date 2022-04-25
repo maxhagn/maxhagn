@@ -15,6 +15,8 @@ My repositories are either tasks I had to solve in school or university or priva
 
 ## Private Projects
 + [https://github.com/maxhagn/UpToDate](https://github.com/maxhagn/UpToDate)
++ [https://github.com/maxhagn/CompilerConstructionLLVM](https://github.com/maxhagn/CompilerConstructionLLVM)
++ [https://github.com/maxhagn/OperatingSystemDevelopment](https://github.com/maxhagn/OperatingSystemDevelopment)
 + [https://github.com/maxhagn/SmartDriving](https://github.com/maxhagn/SmartDriving)
 + [https://github.com/maxhagn/Vacayournal](https://github.com/maxhagn/Vacayournal)
 + [https://github.com/maxhagn/MaximilianHagnPortfolio](https://github.com/maxhagn/MaximilianHagnPortfolio)
@@ -28,8 +30,12 @@ My repositories are either tasks I had to solve in school or university or priva
 + [https://github.com/maxhagn/SoftwareEngineeringProjektmanagement](https://github.com/maxhagn/SoftwareEngineeringProjektmanagement)
 + [https://github.com/maxhagn/OperatingSystems](https://github.com/maxhagn/OperatingSystems)
 + [https://github.com/maxhagn/FunctionalProgrammingHaskell](https://github.com/maxhagn/FunctionalProgrammingHaskell)
++ [https://github.com/maxhagn/ObjectOrientedProgrammingJava](https://github.com/maxhagn/ObjectOrientedProgrammingJava)
 + [https://github.com/maxhagn/VisualComputing](https://github.com/maxhagn/VisualComputing)
 + [https://github.com/maxhagn/DistributedSystems](https://github.com/maxhagn/DistributedSystems)
++ [https://github.com/maxhagn/IntroductionToSecurity](https://github.com/maxhagn/IntroductionToSecurity)
++ [https://github.com/maxhagn/WebEngineering](https://github.com/maxhagn/WebEngineering)
++ [https://github.com/maxhagn/StatisticalComputingR](https://github.com/maxhagn/StatisticalComputingR)
 + [https://github.com/maxhagn/JavaIntroductionProgramming](https://github.com/maxhagn/JavaIntroductionProgramming)
 
 ## School Projects
