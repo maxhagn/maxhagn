@@ -21,9 +21,9 @@ GitHub: [https://github.com/maxhagn/DiplomaE-LearningPlatform](https://github.co
 GitHub: [https://github.com/maxhagn/DiplomaPreProject](https://github.com/maxhagn/DiplomaPreProject)
 
 ## Private Projects
-+ Personal planning system. 
++ **Personal planning system**  
 GitHub: [https://github.com/maxhagn/UpToDate](https://github.com/maxhagn/UpToDate)
-+ **My first LLVM compiler**
++ **My first LLVM compiler**  
 GitHub: [https://github.com/maxhagn/CompilerConstructionLLVM](https://github.com/maxhagn/CompilerConstructionLLVM)
 + **My first higher half kernel**  
 GitHub: [https://github.com/maxhagn/OperatingSystemDevelopment](https://github.com/maxhagn/OperatingSystemDevelopment)
