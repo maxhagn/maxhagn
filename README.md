@@ -2,14 +2,16 @@
 I am a software developer from Vienna and I currently study computer science at the technical university in Vienna. I am interested in all disciplines of computer science, but most of all in low level programming like compiler construction and development with C and C++. 
 \
 \
-My repositories are either tasks I had to solve in school or university or private projects. Here is a small overview of my repositories:
+My repositories are either tasks I had to solve in school or university or private projects. Here you can find an overview of my repositories:
 
 ## Bachelor Thesis
 +  This repo contains a compiler frontend that can programmatically add performance counters to C++ source code:
 [https://github.com/maxhagn/ROIProfilerCPP](https://github.com/maxhagn/ROIProfilerCPP)
 
 ## Diploma Thesis
-+ [https://github.com/maxhagn/DiplomaProjectInfoPage](https://github.com/maxhagn/DiplomaProjectInfoPage)
++ This repo contains the information page of my diploma thesis  
+GitHub: [https://github.com/maxhagn/DiplomaProjectInfoPage](https://github.com/maxhagn/DiplomaProjectInfoPage)  
+Website: [https://info-diploma-thesis.hagn.network/](https://info-diploma-thesis.hagn.network/)
 + [https://github.com/maxhagn/CSSFramework](https://github.com/maxhagn/CSSFramework)
 + [https://github.com/maxhagn/DiplomaE-LearningPlatform](https://github.com/maxhagn/DiplomaE-LearningPlatform)
 + [https://github.com/maxhagn/DiplomaPreProject](https://github.com/maxhagn/DiplomaPreProject)
