@@ -32,15 +32,11 @@ GitHub: [https://github.com/maxhagn/SmartDriving](https://github.com/maxhagn/Sma
 + **Instagram / Facebook clone**  
 GitHub: [https://github.com/maxhagn/Vacayournal](https://github.com/maxhagn/Vacayournal)
 + **Maximilian Hagn personal website**  
-GitHub: [https://github.com/maxhagn/MaximilianHagnPortfolio](https://github.com/maxhagn/MaximilianHagnPortfolio)
+GitHub: [https://github.com/maxhagn/MaximilianHagnPortfolio](https://github.com/maxhagn/MaximilianHagnPortfolio)  
+Website: [https://maximilian.hagn.network](https://maximilian.hagn.network)
 + **Marlene Stanzl personal website**  
-GitHub: [https://github.com/maxhagn/MarleneStanzlPortfolio](https://github.com/maxhagn/MarleneStanzlPortfolio)
-+ **Maximilian Hagn personal website**  
-GitHub: [https://github.com/maxhagn/VollerFreudeWebsite](https://github.com/maxhagn/VollerFreudeWebsite)
-+ **Our old home network website**  
-GitHub: [https://github.com/maxhagn/HagnnetWebsite](https://github.com/maxhagn/HagnnetWebsite)
-+ **Some old websites**  
-GitHub: [https://github.com/maxhagn/PersonalWebsitesArchive](https://github.com/maxhagn/PersonalWebsitesArchive)
+GitHub: [https://github.com/maxhagn/MarleneStanzlPortfolio](https://github.com/maxhagn/MarleneStanzlPortfolio)  
+Website: [https://marlene.hagn.network](https://marlene.hagn.network)
 
 ## University Projects
 + [https://github.com/maxhagn/CompilerConstruction](https://github.com/maxhagn/CompilerConstruction)
