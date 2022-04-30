@@ -21,25 +21,25 @@ GitHub: [https://github.com/maxhagn/DiplomaE-LearningPlatform](https://github.co
 GitHub: [https://github.com/maxhagn/DiplomaPreProject](https://github.com/maxhagn/DiplomaPreProject)
 
 ## Private Projects
-+   
++ Personal planning system. 
 GitHub: [https://github.com/maxhagn/UpToDate](https://github.com/maxhagn/UpToDate)
-+   
++ **My first LLVM compiler**
 GitHub: [https://github.com/maxhagn/CompilerConstructionLLVM](https://github.com/maxhagn/CompilerConstructionLLVM)
-+   
++ **My first higher half kernel**  
 GitHub: [https://github.com/maxhagn/OperatingSystemDevelopment](https://github.com/maxhagn/OperatingSystemDevelopment)
-+   
++ **My first iOS App**
 GitHub: [https://github.com/maxhagn/SmartDriving](https://github.com/maxhagn/SmartDriving)
-+   
++ **Instagram / Facebook clone**
 GitHub: [https://github.com/maxhagn/Vacayournal](https://github.com/maxhagn/Vacayournal)
-+   
++ **Maximilian Hagn personal website**  
 GitHub: [https://github.com/maxhagn/MaximilianHagnPortfolio](https://github.com/maxhagn/MaximilianHagnPortfolio)
-+   
++ **Marlene Stanzl personal website**  
 GitHub: [https://github.com/maxhagn/MarleneStanzlPortfolio](https://github.com/maxhagn/MarleneStanzlPortfolio)
-+   
++ **Maximilian Hagn personal website**  
 GitHub: [https://github.com/maxhagn/VollerFreudeWebsite](https://github.com/maxhagn/VollerFreudeWebsite)
-+   
++ **Our old home network website**  
 GitHub: [https://github.com/maxhagn/HagnnetWebsite](https://github.com/maxhagn/HagnnetWebsite)
-+   
++ **Some old websites**  
 GitHub: [https://github.com/maxhagn/PersonalWebsitesArchive](https://github.com/maxhagn/PersonalWebsitesArchive)
 
 ## University Projects
