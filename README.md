@@ -39,22 +39,38 @@ GitHub: [https://github.com/maxhagn/MarleneStanzlPortfolio](https://github.com/m
 Website: [https://marlene.hagn.network](https://marlene.hagn.network)
 
 ## University Projects
-+ [https://github.com/maxhagn/CompilerConstruction](https://github.com/maxhagn/CompilerConstruction)
-+ [https://github.com/maxhagn/SoftwareEngineeringProjektmanagement](https://github.com/maxhagn/SoftwareEngineeringProjektmanagement)
-+ [https://github.com/maxhagn/OperatingSystems](https://github.com/maxhagn/OperatingSystems)
-+ [https://github.com/maxhagn/FunctionalProgrammingHaskell](https://github.com/maxhagn/FunctionalProgrammingHaskell)
-+ [https://github.com/maxhagn/ObjectOrientedProgrammingJava](https://github.com/maxhagn/ObjectOrientedProgrammingJava)
-+ [https://github.com/maxhagn/VisualComputing](https://github.com/maxhagn/VisualComputing)
-+ [https://github.com/maxhagn/DistributedSystems](https://github.com/maxhagn/DistributedSystems)
-+ [https://github.com/maxhagn/IntroductionToSecurity](https://github.com/maxhagn/IntroductionToSecurity)
-+ [https://github.com/maxhagn/WebEngineering](https://github.com/maxhagn/WebEngineering)
-+ [https://github.com/maxhagn/StatisticalComputingR](https://github.com/maxhagn/StatisticalComputingR)
-+ [https://github.com/maxhagn/DataAnalysisR](https://github.com/maxhagn/DataAnalysisR)
-+ [https://github.com/maxhagn/SemiStructuredData](https://github.com/maxhagn/SemiStructuredData)
-+ [https://github.com/maxhagn/JavaIntroductionProgramming](https://github.com/maxhagn/JavaIntroductionProgramming)
++ **compiler course**  
+GitHub: [https://github.com/maxhagn/CompilerConstruction](https://github.com/maxhagn/CompilerConstruction)
++ **group project software engineering and project management**  
+GitHub: [https://github.com/maxhagn/SoftwareEngineeringProjektmanagement](https://github.com/maxhagn/SoftwareEngineeringProjektmanagement)
++ **operating system course**  
+GitHub: [https://github.com/maxhagn/OperatingSystems](https://github.com/maxhagn/OperatingSystems)
++ **functional programming course**  
+GitHub: [https://github.com/maxhagn/FunctionalProgrammingHaskell](https://github.com/maxhagn/FunctionalProgrammingHaskell)
++ **object oriented programming course**  
+GitHub: [https://github.com/maxhagn/ObjectOrientedProgrammingJava](https://github.com/maxhagn/ObjectOrientedProgrammingJava)
++ **visual computing course**  
+GitHub: [https://github.com/maxhagn/VisualComputing](https://github.com/maxhagn/VisualComputing)
++ **distributed systems course**  
+GitHub: [https://github.com/maxhagn/DistributedSystems](https://github.com/maxhagn/DistributedSystems)
++ **introduction to security course**  
+GitHub: [https://github.com/maxhagn/IntroductionToSecurity](https://github.com/maxhagn/IntroductionToSecurity)
++ **web engineering course**  
+GitHub: [https://github.com/maxhagn/WebEngineering](https://github.com/maxhagn/WebEngineering)
++ **statistical computing course**  
+GitHub: [https://github.com/maxhagn/StatisticalComputingR](https://github.com/maxhagn/StatisticalComputingR)
++ **data analysis course**  
+GitHub: [https://github.com/maxhagn/DataAnalysisR](https://github.com/maxhagn/DataAnalysisR)
++ **semi structured data course**  
+GitHub: [https://github.com/maxhagn/SemiStructuredData](https://github.com/maxhagn/SemiStructuredData)
++ **introduction to programming course**  
+GitHub: [https://github.com/maxhagn/JavaIntroductionProgramming](https://github.com/maxhagn/JavaIntroductionProgramming)
 
 ## School Projects
-+ [https://github.com/maxhagn/LinkHypeHyperlinkManagement](https://github.com/maxhagn/LinkHypeHyperlinkManagement)
-+ [https://github.com/maxhagn/E-LearningVideoPlatform](https://github.com/maxhagn/E-LearningVideoPlatform)
-+ [https://github.com/maxhagn/AngularLaravelProjects](https://github.com/maxhagn/AngularLaravelProjects )
++ **the first website we wrote as a team long time ago**  
+GitHub: [https://github.com/maxhagn/LinkHypeHyperlinkManagement](https://github.com/maxhagn/LinkHypeHyperlinkManagement)
++ **e-learning video platform**  
+GitHub: [https://github.com/maxhagn/E-LearningVideoPlatform](https://github.com/maxhagn/E-LearningVideoPlatform)
++ **multiple excersices and test prparations with Laravel and Angular**  
+GitHub: [https://github.com/maxhagn/AngularLaravelProjects](https://github.com/maxhagn/AngularLaravelProjects)
 
