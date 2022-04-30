@@ -17,7 +17,7 @@ GitHub: [https://github.com/maxhagn/CSSFramework](https://github.com/maxhagn/CSS
 Website: [https://css-framework.hagn.network/](https://css-framework.hagn.network/)
 + The e-learning platform which was the main part of our thesis  
 GitHub: [https://github.com/maxhagn/DiplomaE-LearningPlatform](https://github.com/maxhagn/DiplomaE-LearningPlatform)
-+ The pre-project where we gathered information for our thesis
++ The pre-project where we gathered information for our thesis  
 GitHub: [https://github.com/maxhagn/DiplomaPreProject](https://github.com/maxhagn/DiplomaPreProject)
 
 ## Private Projects
