@@ -5,20 +5,20 @@ I am a software developer from Vienna and I currently study computer science at 
 My repositories are either tasks I had to solve in school or university or private projects. Here you can find an overview of my repositories:
 
 ## Bachelor Thesis
-+  Compiler frontend that can programmatically add performance counters to C++ source code:
-**GitHub:** [https://github.com/maxhagn/ROIProfilerCPP](https://github.com/maxhagn/ROIProfilerCPP)
++  **Compiler frontend that can programmatically add performance counters to C++ source code**
+GitHub: [https://github.com/maxhagn/ROIProfilerCPP](https://github.com/maxhagn/ROIProfilerCPP)
 
 ## Diploma Thesis
-+ The information page of our diploma thesis  
-**GitHub:** [https://github.com/maxhagn/DiplomaProjectInfoPage](https://github.com/maxhagn/DiplomaProjectInfoPage)  
-**Website:** [https://info-diploma-thesis.hagn.network/](https://info-diploma-thesis.hagn.network/)
-+ The CSS framework we developed as a part of our project  
-**GitHub:** [https://github.com/maxhagn/CSSFramework](https://github.com/maxhagn/CSSFramework)  
-**Website:** [https://css-framework.hagn.network/](https://css-framework.hagn.network/)
-+ The e-learning platform which was the main part of our thesis  
-**GitHub:** [https://github.com/maxhagn/DiplomaE-LearningPlatform](https://github.com/maxhagn/DiplomaE-LearningPlatform)
-+ The pre-project where we gathered information for our thesis  
-**GitHub:** [https://github.com/maxhagn/DiplomaPreProject](https://github.com/maxhagn/DiplomaPreProject)
++ **The information page of our diploma thesis**  
+GitHub: [https://github.com/maxhagn/DiplomaProjectInfoPage](https://github.com/maxhagn/DiplomaProjectInfoPage)  
+Website: [https://info-diploma-thesis.hagn.network/](https://info-diploma-thesis.hagn.network/)
++ **The CSS framework we developed as a part of our project**  
+GitHub: [https://github.com/maxhagn/CSSFramework](https://github.com/maxhagn/CSSFramework)  
+Website: [https://css-framework.hagn.network/](https://css-framework.hagn.network/)
++ **The e-learning platform which was the main part of our thesis**  
+GitHub: [https://github.com/maxhagn/DiplomaE-LearningPlatform](https://github.com/maxhagn/DiplomaE-LearningPlatform)
++ **The pre-project where we gathered information for our thesis**  
+GitHub: [https://github.com/maxhagn/DiplomaPreProject](https://github.com/maxhagn/DiplomaPreProject)
 
 ## Private Projects
 + [https://github.com/maxhagn/UpToDate](https://github.com/maxhagn/UpToDate)
