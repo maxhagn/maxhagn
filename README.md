@@ -21,16 +21,26 @@ GitHub: [https://github.com/maxhagn/DiplomaE-LearningPlatform](https://github.co
 GitHub: [https://github.com/maxhagn/DiplomaPreProject](https://github.com/maxhagn/DiplomaPreProject)
 
 ## Private Projects
-+ [https://github.com/maxhagn/UpToDate](https://github.com/maxhagn/UpToDate)
-+ [https://github.com/maxhagn/CompilerConstructionLLVM](https://github.com/maxhagn/CompilerConstructionLLVM)
-+ [https://github.com/maxhagn/OperatingSystemDevelopment](https://github.com/maxhagn/OperatingSystemDevelopment)
-+ [https://github.com/maxhagn/SmartDriving](https://github.com/maxhagn/SmartDriving)
-+ [https://github.com/maxhagn/Vacayournal](https://github.com/maxhagn/Vacayournal)
-+ [https://github.com/maxhagn/MaximilianHagnPortfolio](https://github.com/maxhagn/MaximilianHagnPortfolio)
-+ [https://github.com/maxhagn/MarleneStanzlPortfolio](https://github.com/maxhagn/MarleneStanzlPortfolio)
-+ [https://github.com/maxhagn/VollerFreudeWebsite](https://github.com/maxhagn/VollerFreudeWebsite)
-+ [https://github.com/maxhagn/HagnnetWebsite](https://github.com/maxhagn/HagnnetWebsite)
-+ [https://github.com/maxhagn/PersonalWebsitesArchive](https://github.com/maxhagn/PersonalWebsitesArchive)
++   
+GitHub: [https://github.com/maxhagn/UpToDate](https://github.com/maxhagn/UpToDate)
++   
+GitHub: [https://github.com/maxhagn/CompilerConstructionLLVM](https://github.com/maxhagn/CompilerConstructionLLVM)
++   
+GitHub: [https://github.com/maxhagn/OperatingSystemDevelopment](https://github.com/maxhagn/OperatingSystemDevelopment)
++   
+GitHub: [https://github.com/maxhagn/SmartDriving](https://github.com/maxhagn/SmartDriving)
++   
+GitHub: [https://github.com/maxhagn/Vacayournal](https://github.com/maxhagn/Vacayournal)
++   
+GitHub: [https://github.com/maxhagn/MaximilianHagnPortfolio](https://github.com/maxhagn/MaximilianHagnPortfolio)
++   
+GitHub: [https://github.com/maxhagn/MarleneStanzlPortfolio](https://github.com/maxhagn/MarleneStanzlPortfolio)
++   
+GitHub: [https://github.com/maxhagn/VollerFreudeWebsite](https://github.com/maxhagn/VollerFreudeWebsite)
++   
+GitHub: [https://github.com/maxhagn/HagnnetWebsite](https://github.com/maxhagn/HagnnetWebsite)
++   
+GitHub: [https://github.com/maxhagn/PersonalWebsitesArchive](https://github.com/maxhagn/PersonalWebsitesArchive)
 
 ## University Projects
 + [https://github.com/maxhagn/CompilerConstruction](https://github.com/maxhagn/CompilerConstruction)
