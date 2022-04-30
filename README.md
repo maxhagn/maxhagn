@@ -27,9 +27,9 @@ GitHub: [https://github.com/maxhagn/UpToDate](https://github.com/maxhagn/UpToDat
 GitHub: [https://github.com/maxhagn/CompilerConstructionLLVM](https://github.com/maxhagn/CompilerConstructionLLVM)
 + **My first higher half kernel**  
 GitHub: [https://github.com/maxhagn/OperatingSystemDevelopment](https://github.com/maxhagn/OperatingSystemDevelopment)
-+ **My first iOS App**
++ **My first iOS App**  
 GitHub: [https://github.com/maxhagn/SmartDriving](https://github.com/maxhagn/SmartDriving)
-+ **Instagram / Facebook clone**
++ **Instagram / Facebook clone**  
 GitHub: [https://github.com/maxhagn/Vacayournal](https://github.com/maxhagn/Vacayournal)
 + **Maximilian Hagn personal website**  
 GitHub: [https://github.com/maxhagn/MaximilianHagnPortfolio](https://github.com/maxhagn/MaximilianHagnPortfolio)
