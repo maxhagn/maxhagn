@@ -5,7 +5,7 @@ I am a software developer from Vienna and I currently study computer science at 
 My repositories are either tasks I had to solve in school or university or private projects. Here you can find an overview of my repositories:
 
 ## Bachelor Thesis
-+  **Compiler frontend that can programmatically add performance counters to C++ source code**
++  **Compiler frontend that can programmatically add performance counters to C++ source code**  
 GitHub: [https://github.com/maxhagn/ROIProfilerCPP](https://github.com/maxhagn/ROIProfilerCPP)
 
 ## Diploma Thesis
