@@ -1,8 +1,10 @@
 # Hi I'm max!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxhagn&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 I am a software developer from Vienna and I currently study computer science at the technical university in Vienna. I am interested in all disciplines of computer science, but most of all in low level programming like compiler construction and development with C and C++. 
+\
+\
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxhagn&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxhagn)](https://github.com/anuraghazra/github-readme-stats)
 \
 \
 My repositories are either tasks I had to solve in school or university or private projects. Here you can find an overview of my repositories:
