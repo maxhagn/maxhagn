@@ -5,7 +5,7 @@ I am a software developer from Vienna and I currently study computer science at 
 \
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxhagn&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 \
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxhagn&hide=html,css,JavaScript,Sass)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxhagn&hide=html,css,javascript,sass,scss)](https://github.com/anuraghazra/github-readme-stats)
 \
 \
 My repositories are either tasks I had to solve in school or university or private projects. Here you can find an overview of my repositories:
