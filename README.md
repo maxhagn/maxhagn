@@ -1,6 +1,6 @@
-# Hi I'm max!
+# Hi there, I'm max!
 
-I am a software developer from Vienna and I currently study computer science at the technical university in Vienna. I am interested in all disciplines of computer science, but most of all in low level programming like compiler construction and development with C and C++. 
+I am a computer science student at the Vienna University of Technology. As a software developer, I specialize in low level programming using C and C++. I have a passion for crafting efficient and reliable code, and I enjoy tackling challenging problems that require a deep understanding of how computers work. In my free time, I like to stay up to date on the latest developments in the tech industry and expand my skillset through self-study and experimentation. I am excited to share my projects and collaborate with others on GitHub while continuing to learn and grow as a developer. 
 \
 \
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxhagn&exclude_repo=AngularLaravelProjects&langs_count=10&hide=html,css,javascript,sass,scss)](https://github.com/anuraghazra/github-readme-stats)
