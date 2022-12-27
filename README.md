@@ -7,6 +7,8 @@ I am a computer science student at the Vienna University of Technology. As a sof
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxhagn&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 \
 \
+
+# Repositories
 My repositories are either tasks I had to solve in school or university or private projects. Here you can find an overview of my repositories:
 
 ## Bachelor Thesis
