@@ -4,16 +4,17 @@ I am a computer science student at the Vienna University of Technology. As a sof
 
 # Statistics
 ## Projects
-Total Project Engagements: 32
-Websites Deployed on Kubernetes: 7
-Client Collaborations: 7
-Code Repositories Managed: 15
-Cumulative Workdays: 1125
+- Total Project Engagements: 32
+- Websites Deployed on Kubernetes: 7
+- Client Collaborations: 7
+- Code Repositories Managed: 15
+- Cumulative Workdays: 1125
 
 ## Skills
-Programming Languages: 15
-Technologies: 60
-Total Skills: 82
+- Programming Languages: 15
+- Technologies: 60
+- Soft Skills: 7
+- Total Skills: 82
 
 # Projects
 ## SAP S4/HANA Migration
@@ -178,3 +179,4 @@ A project conducted as part of a university course at the Vienna University of T
 A collection of assignments developed for the Functional Programming course at the Vienna University of Technology, written in Haskell.
 
 - [Github Repository](https://github.com/maxhagn/FunctionalProgrammingHaskell)
+
