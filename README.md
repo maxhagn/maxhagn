@@ -28,6 +28,9 @@ Eine umfangreiche Datenmigration für eine der Top-20-Firmen Österreichs von SA
 <br>
 
 
+
+<br>
+
 ## Advanced Internet Computing
 ![Thumbnail](https://files.hagn.network/images/advanced-internet-computing/thumbnail.webp)
 
@@ -40,6 +43,9 @@ In einem fünfköpfigen Team entwickelten wir eine anspruchsvolle Mikroservice-A
 
 - [GitHub Repository](https://github.com/maxhagn/AdvancedInternetComputing)
 
+
+<br>
+
 ## SAP S4/HANA Proof of Concept Conversion
 ![Thumbnail](https://files.hagn.network/images/sap-hana-proof-of-concept/thumbnail.webp)
 
@@ -50,6 +56,9 @@ In diesem Migrationsprojekt war ich verantwortlich für die Modernisierung des C
 
 <br>
 
+
+
+<br>
 
 ## Project Management Application
 ![Thumbnail](https://files.hagn.network/images/project-management-app/thumbnail.webp)
@@ -66,6 +75,9 @@ Ein innovatives Tool zur mühelosen Verwaltung und Präsentation meiner Projekte
 - [GitHub Repository Kotlin API and React Frontend](https://github.com/maxhagn/ProjectManagementApp)
 - [Website](https://projects.hagn.network)
 
+
+<br>
+
 ## Homeserver Kubernetes Cluster Architecture
 ![Thumbnail](https://files.hagn.network/images/kubernetes/thumbnail.webp)
 
@@ -79,6 +91,9 @@ Erweiterung unseres Docker-Homeserver-Setups durch Integration von Kubernetes, u
 - [GitHub Repository](https://github.com/maxhagn/K8sHomeserver)
 - [Website Grafana](https://grafana.hagn.network)
 - [Website Kubernetes Dashboard](https://k8s.hagn.network)
+
+
+<br>
 
 ## UpToDate
 ![Thumbnail](https://files.hagn.network/images/uptodate/thumbnail.webp)
@@ -94,6 +109,9 @@ UpToDate ist eine kompakte Webapplikation, die Kalender, Notizen und Aufgabenlis
 - [GitHub Repository](https://github.com/maxhagn/UpToDate)
 - [Website](https://uptodate.hagn.network)
 
+
+<br>
+
 ## Ticketline
 A web-based ticket store developed by a team of six, featuring ticket purchase, cancellation, and management, built using Angular for the frontend and Spring Boot for the backend.
 
@@ -104,6 +122,9 @@ Ein von einem sechsköpfigen Team entwickelter webbasierter Ticketshop, der den 
 
 - [GitHub Repository](https://github.com/maxhagn/TicketLine)
 
+
+<br>
+
 ## Web Development Archive
 A comprehensive collection of my web development projects, including course tasks, portfolio websites, and team projects, developed using technologies like Angular, Laravel, PHP, and JavaScript.
 
@@ -113,6 +134,9 @@ Eine umfassende Sammlung meiner Webentwicklungsprojekte, darunter Kursaufgaben, 
 <br>
 
 - [GitHub Repository](https://github.com/maxhagn/WebDevelopmentArchive)
+
+
+<br>
 
 ## Maximilian Hagn Portfolio Website
 ![Thumbnail](https://files.hagn.network/images/maximilian-hagn/hero.webp)
@@ -126,6 +150,9 @@ Eine moderne, einseitige Portfolio-Webseite, die wesentliche persönliche und be
 
 - [GitHub Repository](https://github.com/maxhagn/MaximilianHagnPortfolio)
 - [Website](https://maximilian.hagn.network)
+
+
+<br>
 
 ## MPI Performance Guidelines (2. BSc Thesis)
 ![Thumbnail](https://files.hagn.network/images/mpi-performance-guidelines/thumbnail.webp)
@@ -144,6 +171,9 @@ Entwicklung einer C++-Anwendung zur Überprüfung von MPI-Implementierungen anha
 - [Document Supplement Bachelor Software & Information Engineering](https://files.hagn.network/documents/certificate/bachelor-software-engineering-supplement.pdf)
 - [GitHub Repository](https://github.com/hunsa/reprompi-dev-private)
 
+
+<br>
+
 ## Marlene Stanzl Portfolio Website
 ![Thumbnail](https://files.hagn.network/images/marlene-hagn/hero-1.webp)
 
@@ -157,6 +187,9 @@ Eine moderne und ansprechende Portfolio-Webseite für Marlene Stanzl, die ihre A
 - [GitHub Repository](https://github.com/maxhagn/MarleneStanzlPortfolio)
 - [Website](https://marlene.hagn.network)
 
+
+<br>
+
 ## SAP EPH8 Upgrade
 A project involving an upgrade to SAP ERP 6.0 EHP8 (Enhancement Package 8), where my primary responsibility was the Unicode migration of custom code within the ABAP development environment.
 
@@ -165,6 +198,9 @@ Ein Projekt, bei dem ein Upgrade auf SAP ERP 6.0 EHP8 (Enhancement Package 8) du
 
 <br>
 
+
+
+<br>
 
 ## Diploma Project
 ![Thumbnail](https://files.hagn.network/images/css-framework/hero.webp)
@@ -180,6 +216,9 @@ An der HTL Rennweg entwickelten wir für unsere Diplomarbeit vielseitige Projekt
 - [Website CSS Framework](https://css-framework.hagn.network)
 - [Website Diploma Info](https://info-diploma-thesis.hagn.network)
 
+
+<br>
+
 ## Claim Management Web-Application
 During my employment as a software developer, I was involved in this major project to redevelop a legacy insurance claim management system from scratch using a modern tech stack including C#, .NET, MongoDB, and Blazor.
 
@@ -188,6 +227,9 @@ In meiner Rolle als Softwareentwickler war ich maßgeblich an der Neugestaltung 
 
 <br>
 
+
+
+<br>
 
 ## Regions Of Interest Profiler (1. BSc Thesis)
 ![Thumbnail](https://files.hagn.network/images/regions-of-interest-profiler/thumbnail.webp)
@@ -206,6 +248,9 @@ Ein in meiner Bachelorarbeit 'Erkennen von Leistungsengpässen durch AST-Transfo
 - [GitHub Repository](https://github.com/maxhagn/ROIProfilerCPP)
 - [Website](https://roiprofiler.hagn.network)
 
+
+<br>
+
 ## Compiler Construction
 A collection of projects, including my first self-written programming language and an implementation of the LLVM tutorial Kaleidoscope language, developed as part of compiler development courses at the Vienna University of Technology.
 
@@ -215,6 +260,9 @@ An der Technischen Universität Wien entwickelte ich im Rahmen von Compilerbauku
 <br>
 
 - [GitHub Repository](https://github.com/maxhagn/CompilerConstruction)
+
+
+<br>
 
 ## Homeserver Docker CI Architecture
 ![Thumbnail](https://files.hagn.network/images/docker/thumbnail.webp)
@@ -228,6 +276,9 @@ Modernisierung meiner Homeserver-Architektur durch den Einsatz von Docker-Contai
 
 - [GitHub Repository Docker Scripts](https://github.com/maxhagn/DockerHomeserver)
 
+
+<br>
+
 ## Distributed Systems Technologies
 A university project where I developed distributed enterprise applications using modern technologies such as MongoDB, Redis, MySQL, HTTP, gRPC, Apache Kafka, and Docker.
 
@@ -238,6 +289,9 @@ Ein Universitätsprojekt, in dem ich verteilte Applikationen mit modernen Techno
 
 - [GitHub Repository](https://github.com/maxhagn/DistributedSystemsTechnologies)
 
+
+<br>
+
 ## SAP HANA Database Upgrade
 A database upgrade project to SAP HANA where I, as an ABAP developer, was responsible for code remediation to ensure compatibility with the HANA database.
 
@@ -246,6 +300,9 @@ Ein Upgrade-Projekt auf die SAP HANA-Datenbank, bei dem ich als ABAP-Entwickler 
 
 <br>
 
+
+
+<br>
 
 ## Computer Now
 A website for my former small business offering computer support and hardware sales, with a straightforward price calculator for custom computers, developed using PHP.
@@ -258,6 +315,9 @@ Die Webseite für mein ehemaliges IT-Support und Hardwaregeschäft, inklusive ei
 - [GitHub Repository](https://github.com/maxhagn/ComputerNowUI)
 - [Website](https://computer-now.hagn.network)
 
+
+<br>
+
 ## Vacayournal
 Creating an Instagram and Facebook clone, designed for sharing pictures and posts, with functionalities for account management, textual posts, and picture galleries, developed in PHP and JavaScript.
 
@@ -267,6 +327,9 @@ Erstellung eines Instagram- und Facebook-Klons, konzipiert für das Teilen von B
 <br>
 
 - [GitHub Repository](https://github.com/maxhagn/Vacayournal)
+
+
+<br>
 
 ## Smart Driving
 My first foray into iOS app development, created using Swift and Firebase, focused on the automatic capture of GPS data for driving logs designed for business clients.
@@ -278,6 +341,9 @@ Mein erstes Projekt im Bereich iOS-App-Entwicklung, realisiert mit Swift und Fir
 
 - [GitHub Repository](https://github.com/maxhagn/SmartDriving)
 
+
+<br>
+
 ## Java Course Collection
 A compilation of various projects and exercises from Java courses at the Vienna University of Technology, including Distributed Systems, Object-Oriented Programming, Software Testing, and Quality Management.
 
@@ -287,6 +353,9 @@ Eine Zusammenstellung verschiedener Projekte und Übungen aus Java-Kursen an der
 <br>
 
 - [GitHub Repository](https://github.com/maxhagn/JavaCourseCollection)
+
+
+<br>
 
 ## Visual Computing
 A collection of assignments from the 'Introduction to Visual Computing' course at the Vienna University of Technology, featuring tasks in Matlab and models created in Blender.
@@ -298,6 +367,9 @@ Eine Sammlung von Aufgaben aus dem Kurs 'Einführung in Visual Computing' an der
 
 - [GitHub Repository](https://github.com/maxhagn/VisualComputing)
 
+
+<br>
+
 ## System Near Programming In C
 Exercises I completed during the 'Operating Systems' course at the Vienna University of Technology, focusing on system programming in C within a UNIX environment.
 
@@ -307,6 +379,9 @@ Aufgaben, die ich im Rahmen des Betriebssystem-Kurses an der Technischen Univers
 <br>
 
 - [GitHub Repository](https://github.com/maxhagn/OperatingSystems)
+
+
+<br>
 
 ## Parallel Computing
 Development of parallel programs and algorithms with C as part of a team course at the Vienna University of Technology, using MPI and OpenMP.
@@ -318,6 +393,9 @@ An der Technischen Universität Wien entwickelten wir im Team parallele Programm
 
 - [GitHub Repository](https://github.com/maxhagn/ParallelComputing)
 
+
+<br>
+
 ## Data Analysis In R
 Participation in a series of courses on Statistical Computing at the Vienna University of Technology, focusing on data analysis and visualization using R.
 
@@ -327,6 +405,9 @@ Absolvierung einer Kursreihe zum Thema Statistical Computing an der Technischen 
 <br>
 
 - [GitHub Repository](https://github.com/maxhagn/DataAnalysisInR)
+
+
+<br>
 
 ## Web Engineering
 A compilation of assignments completed during the Web Engineering course at the Vienna University of Technology, focusing on CSS, JavaScript, Node.js, and Vue.js.
@@ -338,6 +419,9 @@ Eine Sammlung von Aufgaben, die im Rahmen des Web-Engineering-Kurses an der Tech
 
 - [GitHub Repository](https://github.com/maxhagn/WebEngineering)
 
+
+<br>
+
 ## Introduction to Security
 A collection of tasks completed during the 'Introduction to Security' course at the Vienna University of Technology.
 
@@ -347,6 +431,9 @@ Eine Sammlung von Aufgaben, die ich im Kurs 'Einführung in die IT-Sicherheit' a
 <br>
 
 - [GitHub Repository](https://github.com/maxhagn/IntroductionToSecurity)
+
+
+<br>
 
 ## Knowledge Based Systems
 A project conducted as part of a university course, focusing on understanding and building knowledge-based systems, including the development of Answer Set programs.
@@ -358,6 +445,9 @@ Ein Projekt im Rahmen eines Universitätskurses, das sich auf das Verständnis u
 
 - [GitHub Repository](https://github.com/maxhagn/KnowledgeBasedSystems)
 
+
+<br>
+
 ## Semistructured Data
 A project conducted as part of a university course at the Vienna University of Technology, focusing on the application of XML technologies for managing semi-structured data.
 
@@ -368,6 +458,9 @@ Ein Projekt, das im Rahmen eines Universitätskurses an der Technischen Universi
 
 - [GitHub Repository](https://github.com/maxhagn/SemiStructuredData)
 
+
+<br>
+
 ## Functional Programming Haskell
 A collection of assignments developed for the Functional Programming course at the Vienna University of Technology, written in Haskell.
 
@@ -377,6 +470,9 @@ Eine Sammlung von Aufgaben, die im Rahmen des Kurses für funktionale Programmie
 <br>
 
 - [GitHub Repository](https://github.com/maxhagn/FunctionalProgrammingHaskell)
+
+
+<br>
 
 # Skills
 | Name | Category | Used |
