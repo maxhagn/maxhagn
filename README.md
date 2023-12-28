@@ -7,7 +7,7 @@ I am a computer science student at the Vienna University of Technology. As a sof
 - Total Project Engagements: 32
 - APIs and Websites: 11
 - Client Collaborations: 7
-- Code Repositories Managed: 28
+- Code Repositories Managed: 32
 - Cumulative Workdays: 1125
 
 ## Skills
@@ -88,7 +88,8 @@ Erweiterung unseres Docker-Homeserver-Setups durch Integration von Kubernetes, u
 
 <br>
 
-- [GitHub Repository](https://github.com/maxhagn/K8sHomeserver)
+- [GitHub Repository Keycloak Container](https://github.com/maxhagn/KeycloakKubernetesSrv)
+- [GitHub Repository Kubernetes Configuration](https://github.com/maxhagn/K8sHomeserver)
 - [Website Grafana](https://grafana.hagn.network)
 - [Website Kubernetes Dashboard](https://k8s.hagn.network)
 
@@ -169,7 +170,9 @@ Entwicklung einer C++-Anwendung zur Überprüfung von MPI-Implementierungen anha
 - [Document Certificate Bachelor Software & Information Engineering](https://files.hagn.network/documents/certificate/bachelor-software-engineering.pdf)
 - [Document Report Bachelor Software & Information Engineering](https://files.hagn.network/documents/certificate/bachelor-software-engineering-report.pdf)
 - [Document Supplement Bachelor Software & Information Engineering](https://files.hagn.network/documents/certificate/bachelor-software-engineering-supplement.pdf)
-- [GitHub Repository](https://github.com/hunsa/reprompi-dev-private)
+- [GitHub Repository MPI Performance Guideline Checker](https://github.com/maxhagn/MPIPerformanceGuidelineChecker)
+- [GitHub Repository PGMPITuneLib](https://github.com/hunsa/pgmpitunelib)
+- [GitHub Repository ReproMPI Benchmark](https://github.com/hunsa/reprompi)
 
 
 <br>
@@ -275,6 +278,7 @@ Modernisierung meiner Homeserver-Architektur durch den Einsatz von Docker-Contai
 <br>
 
 - [GitHub Repository Docker Scripts](https://github.com/maxhagn/DockerHomeserver)
+- [GitHub Repository Static File Server](https://github.com/maxhagn/StaticFileServer)
 
 
 <br>
@@ -488,23 +492,23 @@ Eine Sammlung von Aufgaben, die im Rahmen des Kurses für funktionale Programmie
 | Spring Boot | Technology | 5 |
 | JavaScript | Programming Language | 5 |
 | Java | Programming Language | 5 |
-| PHP | Programming Language | 4 |
 | MySQL | Technology | 4 |
+| PHP | Programming Language | 4 |
 | CMake | Technology | 4 |
 | MongoDB | Technology | 4 |
 | ABAP | Programming Language | 4 |
-| C++ | Programming Language | 3 |
 | SAP ECC | Technology | 3 |
-| C | Programming Language | 3 |
 | Intellij | Technology | 3 |
+| C | Programming Language | 3 |
 | Latex | Technology | 3 |
 | GCC | Technology | 3 |
 | Redis | Technology | 3 |
-| jQuery | Technology | 3 |
 | Bootstrap | Technology | 3 |
+| jQuery | Technology | 3 |
+| C++ | Programming Language | 3 |
 | Selenium | Technology | 2 |
-| Scientific Writing | Soft Skill | 2 |
 | SAP S4/HANA | Technology | 2 |
+| Scientific Writing | Soft Skill | 2 |
 | TailwindCSS | Technology | 2 |
 | Laravel | Technology | 2 |
 | Python | Programming Language | 2 |
@@ -518,32 +522,32 @@ Eine Sammlung von Aufgaben, die im Rahmen des Kurses für funktionale Programmie
 | Swift | Programming Language | 1 |
 | Customer Acquisition | Soft Skill | 1 |
 | Grafana | Technology | 1 |
-| NPM | Technology | 1 |
 | SAP HANA | Technology | 1 |
-| Company Foundation | Soft Skill | 1 |
-| Answer-Set Programming | Technology | 1 |
-| Yacc | Technology | 1 |
-| SAP Data Designer | Technology | 1 |
+| NPM | Technology | 1 |
 | Software Testing | Technology | 1 |
+| Answer-Set Programming | Technology | 1 |
+| Company Foundation | Soft Skill | 1 |
+| SAP Data Designer | Technology | 1 |
+| Yacc | Technology | 1 |
+| Quality Management | Soft Skill | 1 |
 | SEO | Technology | 1 |
 | Parallel Computing | Technology | 1 |
-| Quality Management | Soft Skill | 1 |
 | Haskell | Programming Language | 1 |
-| Clang | Technology | 1 |
 | Matlab | Programming Language | 1 |
+| Clang | Technology | 1 |
 | .Net | Technology | 1 |
 | Visual Studio Code | Technology | 1 |
 | Object Oriented Programming | Technology | 1 |
 | Blender | Technology | 1 |
 | Continuous Integration | Technology | 1 |
 | Vue.js | Technology | 1 |
-| Security | Soft Skill | 1 |
 | Statistical Computing | Technology | 1 |
+| Security | Soft Skill | 1 |
 | React | Technology | 1 |
 | Prometheus | Technology | 1 |
 | Flex | Technology | 1 |
-| High Performance Computing | Technology | 1 |
 | OpenMP | Technology | 1 |
+| High Performance Computing | Technology | 1 |
 | Cucumber | Technology | 1 |
 | Firebase | Technology | 1 |
 | Project Management | Soft Skill | 1 |
@@ -552,10 +556,10 @@ Eine Sammlung von Aufgaben, die im Rahmen des Kurses für funktionale Programmie
 | C# | Programming Language | 1 |
 | Node.js | Technology | 1 |
 | Microservices | Technology | 1 |
-| Data Analysis | Soft Skill | 1 |
 | Kubernetes | Technology | 1 |
-| AMD64 Architecture | Technology | 1 |
+| Data Analysis | Soft Skill | 1 |
 | Distributed Systems | Technology | 1 |
+| AMD64 Architecture | Technology | 1 |
 | Kotlin | Programming Language | 1 |
 | Knowledge-Based Systems | Technology | 1 |
 | gRPC | Technology | 1 |
