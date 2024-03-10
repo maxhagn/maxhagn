@@ -4,17 +4,17 @@ I am a computer science student at the Vienna University of Technology. As a sof
 
 # Statistics
 ## Projects
-- Total Project Engagements: 32
+- Total Project Engagements: 34
 - APIs and Websites: 11
 - Client Collaborations: 7
-- Code Repositories Managed: 32
-- Cumulative Workdays: 1125
+- Code Repositories Managed: 34
+- Cumulative Workdays: 1165
 
 ## Skills
 - Programming Languages: 15
-- Technologies: 60
+- Technologies: 61
 - Soft Skills: 7
-- Total Skills: 82
+- Total Skills: 83
 
 # Projects
 ## SAP S4/HANA Migration
@@ -31,6 +31,21 @@ Eine umfangreiche Datenmigration für eine der Top-20-Firmen Österreichs von SA
 
 <br>
 
+## Boilerplate Generator
+![Thumbnail](https://files.hagn.network/images/boilerplate-generator/thumbnail.webp)
+
+A streamlined app that automates TypeScript and Java API boilerplate and database setups, with a UI, TypeScript Facade, and Java Spring Boot Generator, connected by WebSocket and AMQP.
+
+---
+Eine App, die das Erstellen von Boilerplate-Code und Datenbankstrukturen für TypeScript- und Java-APIs automatisiert, mit UI, TypeScript-Fassade und Java Spring Boot-Generator, verbunden über WebSocket und AMQP.
+
+<br>
+
+- [GitHub Repository](https://github.com/maxhagn/BoilerplateGenerator)
+
+
+<br>
+
 ## Advanced Internet Computing
 ![Thumbnail](https://files.hagn.network/images/advanced-internet-computing/thumbnail.webp)
 
@@ -42,56 +57,6 @@ In einem fünfköpfigen Team entwickelten wir eine anspruchsvolle Mikroservice-A
 <br>
 
 - [GitHub Repository](https://github.com/maxhagn/AdvancedInternetComputing)
-
-
-<br>
-
-## SAP S4/HANA Proof of Concept Conversion
-![Thumbnail](https://files.hagn.network/images/sap-hana-proof-of-concept/thumbnail.webp)
-
-A conversion project where I was responsible for custom code remediation from SAP ECC to SAP S/4HANA, complemented by workshops to demonstrate new functionalities of S/4HANA.
-
----
-In diesem Migrationsprojekt war ich verantwortlich für die Modernisierung des Custom Codes von SAP ECC zu SAP S/4HANA und führte Workshops zur Vorstellung der neuen Funktionalitäten durch.
-
-<br>
-
-
-
-<br>
-
-## Project Management Application
-![Thumbnail](https://files.hagn.network/images/project-management-app/thumbnail.webp)
-
-An innovative tool to effortlessly manage and showcase my projects on GitHub and my website, featuring a sleek React frontend and a MongoDB database.
-
----
-Ein innovatives Tool zur mühelosen Verwaltung und Präsentation meiner Projekte auf GitHub und meiner Webseite, ausgestattet mit einem eleganten React-Frontend und einer MongoDB-Datenbank.
-
-<br>
-
-- [API](https://api.projects.hagn.network)
-- [GitHub Repository API to Markdown Parser](https://github.com/maxhagn/ProjectAPIMarkdownParser)
-- [GitHub Repository Kotlin API and React Frontend](https://github.com/maxhagn/ProjectManagementApp)
-- [Website](https://projects.hagn.network)
-
-
-<br>
-
-## Homeserver Kubernetes Cluster Architecture
-![Thumbnail](https://files.hagn.network/images/kubernetes/thumbnail.webp)
-
-Expansion of our Docker Homeserver setup with Kubernetes to enhance the deployment and scalability of web services and APIs.
-
----
-Erweiterung unseres Docker-Homeserver-Setups durch Integration von Kubernetes, um die Bereitstellung und Skalierbarkeit von Webdiensten und APIs zu optimieren.
-
-<br>
-
-- [GitHub Repository Keycloak Container](https://github.com/maxhagn/KeycloakKubernetesSrv)
-- [GitHub Repository Kubernetes Configuration](https://github.com/maxhagn/K8sHomeserver)
-- [Website Grafana](https://grafana.hagn.network)
-- [Website Kubernetes Dashboard](https://k8s.hagn.network)
 
 
 <br>
@@ -113,6 +78,35 @@ UpToDate ist eine kompakte Webapplikation, die Kalender, Notizen und Aufgabenlis
 
 <br>
 
+## SAP S4/HANA Proof of Concept Conversion
+![Thumbnail](https://files.hagn.network/images/sap-hana-proof-of-concept/thumbnail.webp)
+
+A conversion project where I was responsible for custom code remediation from SAP ECC to SAP S/4HANA, complemented by workshops to demonstrate new functionalities of S/4HANA.
+
+---
+In diesem Migrationsprojekt war ich verantwortlich für die Modernisierung des Custom Codes von SAP ECC zu SAP S/4HANA und führte Workshops zur Vorstellung der neuen Funktionalitäten durch.
+
+<br>
+
+
+
+<br>
+
+## Blockchain.ts
+![Thumbnail](https://files.hagn.network/images/blockchain/thumbnail.webp)
+
+A Node.js and TypeScript-based blockchain project leveraging the libp2p library for a peer-to-peer network. This simulation involves miners using proof of work to mine blocks and actors sending continuous transactions.
+
+---
+Ein auf Node.js und TypeScript basierendes Blockchain-Projekt, das die libp2p-Bibliothek für ein Peer-to-Peer-Netzwerk nutzt. Diese Simulation beinhaltet Miner, die Proof of Work verwenden, um Blöcke zu schürfen, und Akteure, die kontinuierliche Transaktionen senden.
+
+<br>
+
+- [GitHub Repository](https://github.com/maxhagn/Blockchain.ts)
+
+
+<br>
+
 ## Ticketline
 A web-based ticket store developed by a team of six, featuring ticket purchase, cancellation, and management, built using Angular for the frontend and Spring Boot for the backend.
 
@@ -122,6 +116,24 @@ Ein von einem sechsköpfigen Team entwickelter webbasierter Ticketshop, der den 
 <br>
 
 - [GitHub Repository](https://github.com/maxhagn/TicketLine)
+
+
+<br>
+
+## Project Management Application
+![Thumbnail](https://files.hagn.network/images/project-management-app/thumbnail.webp)
+
+An innovative tool to effortlessly manage and showcase my projects on GitHub and my website, featuring a sleek React frontend and a MongoDB database.
+
+---
+Ein innovatives Tool zur mühelosen Verwaltung und Präsentation meiner Projekte auf GitHub und meiner Webseite, ausgestattet mit einem eleganten React-Frontend und einer MongoDB-Datenbank.
+
+<br>
+
+- [API](https://api.projects.hagn.network)
+- [GitHub Repository API to Markdown Parser](https://github.com/maxhagn/ProjectAPIMarkdownParser)
+- [GitHub Repository Kotlin API and React Frontend](https://github.com/maxhagn/ProjectManagementApp)
+- [Website](https://projects.hagn.network)
 
 
 <br>
@@ -177,30 +189,20 @@ Entwicklung einer C++-Anwendung zur Überprüfung von MPI-Implementierungen anha
 
 <br>
 
-## Marlene Stanzl Portfolio Website
-![Thumbnail](https://files.hagn.network/images/marlene-hagn/hero-1.webp)
+## Homeserver Kubernetes Cluster Architecture
+![Thumbnail](https://files.hagn.network/images/kubernetes/thumbnail.webp)
 
-A modern and engaging portfolio website designed for Marlene Stanzl, showcasing her work and expertise. Developed using Google's fronend framework Angular.
-
----
-Eine moderne und ansprechende Portfolio-Webseite für Marlene Stanzl, die ihre Arbeit und Fachkenntnisse präsentiert. Entwickelt mit Google's Frontend Framework Angular.
-
-<br>
-
-- [GitHub Repository](https://github.com/maxhagn/MarleneStanzlPortfolio)
-- [Website](https://marlene.hagn.network)
-
-
-<br>
-
-## SAP EPH8 Upgrade
-A project involving an upgrade to SAP ERP 6.0 EHP8 (Enhancement Package 8), where my primary responsibility was the Unicode migration of custom code within the ABAP development environment.
+Expansion of our Docker Homeserver setup with Kubernetes to enhance the deployment and scalability of web services and APIs.
 
 ---
-Ein Projekt, bei dem ein Upgrade auf SAP ERP 6.0 EHP8 (Enhancement Package 8) durchgeführt wurde. Meine Hauptaufgabe bestand in der Unicode-Migration des Custom Codes im ABAP-Entwicklungsumfeld.
+Erweiterung unseres Docker-Homeserver-Setups durch Integration von Kubernetes, um die Bereitstellung und Skalierbarkeit von Webdiensten und APIs zu optimieren.
 
 <br>
 
+- [GitHub Repository Keycloak Container](https://github.com/maxhagn/KeycloakKubernetesSrv)
+- [GitHub Repository Kubernetes Configuration](https://github.com/maxhagn/K8sHomeserver)
+- [Website Grafana](https://grafana.hagn.network)
+- [Website Kubernetes Dashboard](https://k8s.hagn.network)
 
 
 <br>
@@ -267,18 +269,18 @@ An der Technischen Universität Wien entwickelte ich im Rahmen von Compilerbauku
 
 <br>
 
-## Homeserver Docker CI Architecture
-![Thumbnail](https://files.hagn.network/images/docker/thumbnail.webp)
+## Marlene Stanzl Portfolio Website
+![Thumbnail](https://files.hagn.network/images/marlene-hagn/hero-1.webp)
 
-A project to modernize my homeserver architecture by transitioning to Docker containers and implementing a GitHub Actions-based CI pipeline.
+A modern and engaging portfolio website designed for Marlene Stanzl, showcasing her work and expertise. Developed using Google's fronend framework Angular.
 
 ---
-Modernisierung meiner Homeserver-Architektur durch den Einsatz von Docker-Containern und die Implementierung einer GitHub Actions-basierten CI-Pipeline.
+Eine moderne und ansprechende Portfolio-Webseite für Marlene Stanzl, die ihre Arbeit und Fachkenntnisse präsentiert. Entwickelt mit Google's Frontend Framework Angular.
 
 <br>
 
-- [GitHub Repository Docker Scripts](https://github.com/maxhagn/DockerHomeserver)
-- [GitHub Repository Static File Server](https://github.com/maxhagn/StaticFileServer)
+- [GitHub Repository](https://github.com/maxhagn/MarleneStanzlPortfolio)
+- [Website](https://marlene.hagn.network)
 
 
 <br>
@@ -301,6 +303,18 @@ A database upgrade project to SAP HANA where I, as an ABAP developer, was respon
 
 ---
 Ein Upgrade-Projekt auf die SAP HANA-Datenbank, bei dem ich als ABAP-Entwickler für die Anpassung des Custom Codes verantwortlich war, um die Kompatibilität mit der HANA-DB zu gewährleisten.
+
+<br>
+
+
+
+<br>
+
+## SAP EPH8 Upgrade
+A project involving an upgrade to SAP ERP 6.0 EHP8 (Enhancement Package 8), where my primary responsibility was the Unicode migration of custom code within the ABAP development environment.
+
+---
+Ein Projekt, bei dem ein Upgrade auf SAP ERP 6.0 EHP8 (Enhancement Package 8) durchgeführt wurde. Meine Hauptaufgabe bestand in der Unicode-Migration des Custom Codes im ABAP-Entwicklungsumfeld.
 
 <br>
 
@@ -331,6 +345,22 @@ Erstellung eines Instagram- und Facebook-Klons, konzipiert für das Teilen von B
 <br>
 
 - [GitHub Repository](https://github.com/maxhagn/Vacayournal)
+
+
+<br>
+
+## Homeserver Docker CI Architecture
+![Thumbnail](https://files.hagn.network/images/docker/thumbnail.webp)
+
+A project to modernize my homeserver architecture by transitioning to Docker containers and implementing a GitHub Actions-based CI pipeline.
+
+---
+Modernisierung meiner Homeserver-Architektur durch den Einsatz von Docker-Containern und die Implementierung einer GitHub Actions-basierten CI-Pipeline.
+
+<br>
+
+- [GitHub Repository Docker Scripts](https://github.com/maxhagn/DockerHomeserver)
+- [GitHub Repository Static File Server](https://github.com/maxhagn/StaticFileServer)
 
 
 <br>
@@ -481,85 +511,86 @@ Eine Sammlung von Aufgaben, die im Rahmen des Kurses für funktionale Programmie
 # Skills
 | Name | Category | Used |
 |------|----------|-------|
-| IntelliJ | Programming Language | 12 |
-| Git | Technology | 12 |
-| Docker | Technology | 11 |
-| CSS | Technology | 11 |
-| HTML | Technology | 11 |
+| IntelliJ | Programming Language | 17 |
+| Git | Technology | 16 |
+| Docker | Technology | 13 |
+| HTML | Technology | 12 |
+| CSS | Technology | 12 |
+| TypeScript | Programming Language | 10 |
 | UNIX | Technology | 9 |
-| TypeScript | Programming Language | 8 |
 | Angular | Technology | 7 |
-| Spring Boot | Technology | 5 |
+| Java | Programming Language | 6 |
 | JavaScript | Programming Language | 5 |
-| Java | Programming Language | 5 |
+| Spring Boot | Technology | 5 |
+| ABAP | Programming Language | 4 |
+| MongoDB | Technology | 4 |
+| CMake | Technology | 4 |
 | MySQL | Technology | 4 |
 | PHP | Programming Language | 4 |
-| CMake | Technology | 4 |
-| MongoDB | Technology | 4 |
-| ABAP | Programming Language | 4 |
-| SAP ECC | Technology | 3 |
-| Intellij | Technology | 3 |
-| C | Programming Language | 3 |
-| Latex | Technology | 3 |
-| GCC | Technology | 3 |
-| Redis | Technology | 3 |
+| C++ | Programming Language | 3 |
 | Bootstrap | Technology | 3 |
 | jQuery | Technology | 3 |
-| C++ | Programming Language | 3 |
-| Selenium | Technology | 2 |
-| SAP S4/HANA | Technology | 2 |
-| Scientific Writing | Soft Skill | 2 |
-| TailwindCSS | Technology | 2 |
-| Laravel | Technology | 2 |
-| Python | Programming Language | 2 |
+| Redis | Technology | 3 |
+| GCC | Technology | 3 |
+| C | Programming Language | 3 |
+| Latex | Technology | 3 |
+| SAP ECC | Technology | 3 |
 | Apache | Technology | 2 |
 | MPI | Technology | 2 |
+| Scientific Writing | Soft Skill | 2 |
+| RabbitMQ | Technology | 2 |
 | Nginx | Technology | 2 |
-| XML | Technology | 1 |
-| Zipkin | Technology | 1 |
-| Sass | Technology | 1 |
-| R | Programming Language | 1 |
-| Swift | Programming Language | 1 |
-| Customer Acquisition | Soft Skill | 1 |
-| Grafana | Technology | 1 |
-| SAP HANA | Technology | 1 |
-| NPM | Technology | 1 |
-| Software Testing | Technology | 1 |
-| Answer-Set Programming | Technology | 1 |
+| Kubernetes | Technology | 2 |
+| Node.js | Technology | 2 |
+| Laravel | Technology | 2 |
+| Python | Programming Language | 2 |
+| TailwindCSS | Technology | 2 |
+| Selenium | Technology | 2 |
+| NPM | Technology | 2 |
+| SAP S4/HANA | Technology | 2 |
 | Company Foundation | Soft Skill | 1 |
-| SAP Data Designer | Technology | 1 |
+| C# | Programming Language | 1 |
 | Yacc | Technology | 1 |
+| Microservices | Technology | 1 |
+| Data Analysis | Soft Skill | 1 |
+| Kotlin | Programming Language | 1 |
+| Distributed Systems | Technology | 1 |
+| AMD64 Architecture | Technology | 1 |
+| gRPC | Technology | 1 |
+| Knowledge-Based Systems | Technology | 1 |
+| Zipkin | Technology | 1 |
+| Prometheus | Technology | 1 |
+| OpenMP | Technology | 1 |
+| High Performance Computing | Technology | 1 |
+| WebSocket | Technology | 1 |
+| Flex | Technology | 1 |
+| Firebase | Technology | 1 |
+| Cucumber | Technology | 1 |
+| Apache Kafka | Technology | 1 |
+| Project Management | Soft Skill | 1 |
+| Haskell | Programming Language | 1 |
 | Quality Management | Soft Skill | 1 |
 | SEO | Technology | 1 |
 | Parallel Computing | Technology | 1 |
-| Haskell | Programming Language | 1 |
-| Matlab | Programming Language | 1 |
-| Clang | Technology | 1 |
-| .Net | Technology | 1 |
 | Visual Studio Code | Technology | 1 |
 | Object Oriented Programming | Technology | 1 |
-| Blender | Technology | 1 |
+| Matlab | Programming Language | 1 |
+| Clang | Technology | 1 |
 | Continuous Integration | Technology | 1 |
-| Vue.js | Technology | 1 |
+| .Net | Technology | 1 |
+| Blender | Technology | 1 |
 | Statistical Computing | Technology | 1 |
-| Security | Soft Skill | 1 |
 | React | Technology | 1 |
-| Prometheus | Technology | 1 |
-| Flex | Technology | 1 |
-| OpenMP | Technology | 1 |
-| High Performance Computing | Technology | 1 |
-| Cucumber | Technology | 1 |
-| Firebase | Technology | 1 |
-| Project Management | Soft Skill | 1 |
-| Apache Kafka | Technology | 1 |
-| RabbitMQ | Technology | 1 |
-| C# | Programming Language | 1 |
-| Node.js | Technology | 1 |
-| Microservices | Technology | 1 |
-| Kubernetes | Technology | 1 |
-| Data Analysis | Soft Skill | 1 |
-| Distributed Systems | Technology | 1 |
-| AMD64 Architecture | Technology | 1 |
-| Kotlin | Programming Language | 1 |
-| Knowledge-Based Systems | Technology | 1 |
-| gRPC | Technology | 1 |
+| Vue.js | Technology | 1 |
+| Security | Soft Skill | 1 |
+| Sass | Technology | 1 |
+| R | Programming Language | 1 |
+| Swift | Programming Language | 1 |
+| XML | Technology | 1 |
+| Customer Acquisition | Soft Skill | 1 |
+| SAP HANA | Technology | 1 |
+| Grafana | Technology | 1 |
+| SAP Data Designer | Technology | 1 |
+| Blockchain | Technology | 1 |
+| Software Testing | Technology | 1 |
+| Answer-Set Programming | Technology | 1 |
